@@ -5,7 +5,7 @@
 - My repositories: 
   - Microbiome Data Processing: https://github.com/mfrankz/microbiome
   - TidyTuesday Project (Data Viz): https://github.com/mfrankz/tidy-tuesday
-  - Data Processing With Palmer Penguins: https://github.com/mfrankz/palmer_penguins/blob/main/README.md
+  - Data Processing With Palmer Penguins: https://github.com/mfrankz/palmer_penguins
 
 <!---
 mfrankz/mfrankz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
