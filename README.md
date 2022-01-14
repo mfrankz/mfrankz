@@ -4,6 +4,7 @@
 - You can reach me at michelle.frankot@gmail.com or on LinkedIn: https://www.linkedin.com/in/michellefrankot/
 - My repositories: 
   - Microbiome: https://github.com/mfrankz/microbiome
+  - TidyTuesday Project: https://github.com/mfrankz/tidy-tuesday
 
 <!---
 mfrankz/mfrankz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
