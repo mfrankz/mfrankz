@@ -1,5 +1,5 @@
 - Hi, I’m Michelle Frankot
-- I have PhD in Behavioral Neuroscience and have a data analytics position at Ohio State University
+- I have PhD in Behavioral Neuroscience and have a data analytics position at OSU
 - I’m currently seeking a data science/biostatistics job 
 - You can reach me at michelle.frankot@gmail.com or on LinkedIn: https://www.linkedin.com/in/michellefrankot/
 - My repositories: 
