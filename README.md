@@ -1,11 +1,13 @@
 - Hi, I’m Michelle Frankot
-- I’m in my final year of my PhD in Behavioral Neuroscience 
-- I’m currently building expertise in R and looking for a data science/biostatistics job
+- I have PhD in Behavioral Neuroscience and have a data analytics position at Ohio State University
+- I’m currently seeking a data science/biostatistics job 
 - You can reach me at michelle.frankot@gmail.com or on LinkedIn: https://www.linkedin.com/in/michellefrankot/
 - My repositories: 
   - Microbiome Data Processing: https://github.com/mfrankz/microbiome
   - TidyTuesday Project (Data Viz): https://github.com/mfrankz/tidy-tuesday
   - Data Processing With Palmer Penguins: https://github.com/mfrankz/palmer_penguins
+  - Large RGT Data (accompanies manuscript in PoBS): https://github.com/mfrankz/RGT-PoBS
+
 
 <!---
 mfrankz/mfrankz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
