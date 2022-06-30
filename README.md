@@ -4,9 +4,10 @@
 - You can reach me at michelle.frankot@gmail.com or on LinkedIn: https://www.linkedin.com/in/michellefrankot/
 - My repositories: 
   - Microbiome Data Processing: https://github.com/mfrankz/microbiome
+  - Large RGT Data (accompanies manuscript in PoBS): https://github.com/mfrankz/RGT-PoBS
   - TidyTuesday Project (Data Viz): https://github.com/mfrankz/tidy-tuesday
   - Data Processing With Palmer Penguins: https://github.com/mfrankz/palmer_penguins
-  - Large RGT Data (accompanies manuscript in PoBS): https://github.com/mfrankz/RGT-PoBS
+
 
 
 <!---
