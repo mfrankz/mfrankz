@@ -3,10 +3,14 @@
 - I’m currently seeking a data science/biostatistics job 
 - You can reach me at michelle.frankot@gmail.com or on LinkedIn: https://www.linkedin.com/in/michellefrankot/
 - My repositories: 
-  - Microbiome Data Processing: https://github.com/mfrankz/microbiome
-  - Large Behavioral Processing (accompanies manuscript in PoBS): https://github.com/mfrankz/RGT-PoBS
-  - TidyTuesday Project (Data Viz): https://github.com/mfrankz/tidy-tuesday
-  - Data Processing With Palmer Penguins: https://github.com/mfrankz/palmer_penguins
+  - Published Works:
+    - Microbiome Data in Behavioral Neuroscience (BNE): https://github.com/mfrankz/BNE_Publication
+    - Large-N Data Processing in Perspectives on Behavior Science (PoBS; in review): https://github.com/mfrankz/RGT-PoBS
+  -Data Visualization
+    - TidyTuesday Project (Data Viz): https://github.com/mfrankz/tidy-tuesday
+  -Miscellaneous Tutorials
+    - Generic Downstream Microbiome Data Processing: https://github.com/mfrankz/microbiome
+    - Data Processing and Model Comparison With Palmer Penguins: https://github.com/mfrankz/palmer_penguins
 
 
 
