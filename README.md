@@ -6,9 +6,9 @@
   - Published Works:
     - Microbiome Data in Behavioral Neuroscience (BNE): https://github.com/mfrankz/BNE_Publication
     - Large-N Data Processing in Perspectives on Behavior Science (PoBS; in review): https://github.com/mfrankz/RGT-PoBS
-  -Data Visualization
+  - Data Visualization
     - TidyTuesday Project (Data Viz): https://github.com/mfrankz/tidy-tuesday
-  -Miscellaneous Tutorials
+  - Miscellaneous Tutorials
     - Generic Downstream Microbiome Data Processing: https://github.com/mfrankz/microbiome
     - Data Processing and Model Comparison With Palmer Penguins: https://github.com/mfrankz/palmer_penguins
 
