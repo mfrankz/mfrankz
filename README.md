@@ -5,7 +5,7 @@
 - My repositories: 
   - Published Works:
     - Microbiome Data in *Behavioral Neuroscience* (BNE): [Code](https://github.com/mfrankz/BNE_Publication)
-    - Large-N Data Processing in *Perspectives on Behavior Science* (PoBS; in review): [Code}(https://github.com/mfrankz/RGT-PoBS)
+    - Large-N Data Processing in *Perspectives on Behavior Science* (PoBS; in review): [Code](https://github.com/mfrankz/RGT-PoBS)
   - Data Visualization
     - TidyTuesday Project (Data Viz): [Code](https://github.com/mfrankz/tidy-tuesday)
   - Miscellaneous Tutorials
