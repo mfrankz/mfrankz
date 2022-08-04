@@ -4,8 +4,8 @@
 - You can reach me at michelle.frankot@gmail.com or on LinkedIn: https://www.linkedin.com/in/michellefrankot/
 - My repositories: 
   - Published Works:
-    - Microbiome Data in Behavioral Neuroscience (BNE): https://github.com/mfrankz/BNE_Publication
-    - Large-N Data Processing in Perspectives on Behavior Science (PoBS; in review): https://github.com/mfrankz/RGT-PoBS
+    - Microbiome Data in *Behavioral Neuroscience* (BNE): https://github.com/mfrankz/BNE_Publication
+    - Large-N Data Processing in *Perspectives on Behavior Science* (PoBS; in review): https://github.com/mfrankz/RGT-PoBS
   - Data Visualization
     - TidyTuesday Project (Data Viz): https://github.com/mfrankz/tidy-tuesday
   - Miscellaneous Tutorials
