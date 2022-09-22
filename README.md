@@ -1,7 +1,6 @@
 - Hi, I’m Michelle Frankot
-- I have PhD in Behavioral Neuroscience and have a data analytics position at OSU
-- I’m currently seeking a data science/biostatistics job 
-- You can reach me at michelle.frankot@gmail.com or on [LinkedIn](https://www.linkedin.com/in/michellefrankot/)
+- I have PhD in Behavioral Neuroscience 
+- You can reach me on [LinkedIn](https://www.linkedin.com/in/michellefrankot/)
 - My repositories: 
   - Published Works:
     - Microbiome Data in *Behavioral Neuroscience* (BNE): [Code](https://github.com/mfrankz/BNE_Publication)
