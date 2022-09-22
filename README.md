@@ -1,5 +1,4 @@
-- Hi, I’m Michelle Frankot
-- I have PhD in Behavioral Neuroscience 
+- I am a data scientist with repositories for data visualization/analysis and microbiome data processing
 - You can reach me on [LinkedIn](https://www.linkedin.com/in/michellefrankot/)
 - My repositories: 
   - Published Works:
