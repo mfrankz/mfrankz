@@ -1,5 +1,4 @@
 - I am a data scientist with repositories for data visualization/analysis and microbiome data processing
-- You can reach me on [LinkedIn](https://www.linkedin.com/in/michellefrankot/)
 - My repositories: 
   - Published Works:
     - Microbiome Data in *Behavioral Neuroscience* (BNE): [Code](https://github.com/mfrankz/BNE_Publication)
